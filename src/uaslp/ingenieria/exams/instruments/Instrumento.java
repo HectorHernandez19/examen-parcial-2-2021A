@@ -1,8 +1,7 @@
 package uaslp.ingenieria.exams.instruments;
+import uaslp.ingenieria.exams.Nota;
 
-public enum Instrumento {
-    PIANO,
-    GUITARRA,
-    FLAUTA,
-    VIOLIN
+public class Instrumento{
+    public void play(Nota nota){
+    }
 }
